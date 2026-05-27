@@ -1,0 +1,16 @@
+#Data set
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+
+
+#Jupyter 
+.ipybn_checkpoints/
+
+#Entornos 
+venv/
+.env
+
+#Sistema 
+.DS_Store
+Thumbs.Db
